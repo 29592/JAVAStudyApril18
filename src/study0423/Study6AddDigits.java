@@ -1,7 +1,7 @@
-package studyA;
+package study0423;
 import java.util.*;
 
-public class Test1AddDigits {
+public class Study6AddDigits {
 	public static int solution(int n) {
 		int answer = 0;
 		char[] chars = ("" +n).toCharArray();
@@ -13,7 +13,7 @@ public class Test1AddDigits {
 		return answer;
 	}
 
-	public Test1AddDigits() {
+	public Study6AddDigits() {
 		// TODO Auto-generated constructor stub
 	}
 
