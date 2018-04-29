@@ -1,4 +1,5 @@
 package lesson18;
+import java.util.*;
 
 public class Test1AddDigits {
 	public static int solution(int n) {
