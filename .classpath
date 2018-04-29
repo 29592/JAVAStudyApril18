@@ -2,6 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="programmers.co.kr.learn.courses"/>
+	<classpathentry kind="src" path="study0426"/>
+	<classpathentry kind="src" path="study0423"/>
+	<classpathentry kind="src" path="study0430"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-10.0.1">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>

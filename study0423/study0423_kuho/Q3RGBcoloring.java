@@ -1,4 +1,4 @@
-package study0423;
+package study0423_kuho;
 //package studyA;
 ////https://www.acmicpc.net/problem/1149
 ///*RGB거리에 사는 사람들은 집을 빨강, 초록, 파랑중에 하나로 칠하려고 한다. 

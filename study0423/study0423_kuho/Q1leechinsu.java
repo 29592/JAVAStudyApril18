@@ -1,4 +1,4 @@
-package study0423;
+package study0423_kuho;
 //https://www.acmicpc.net/problem/2193
 /*0과 1로만 이루어진 수를 이진수라 한다. 이러한 이진수 중 특별한 성질을 갖는 것들이 있는데, 이들을 이친수(pinary number)라 한다. 이친수는 다음의 성질을 만족한다.
 이친수는 0으로 시작하지 않는다.
@@ -7,7 +7,7 @@ package study0423;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Stydy1leechinsu {
+public class Q1leechinsu {
 
 	public static void main(String[] args) {//피보나치 수열
 		Scanner sc = new Scanner(System.in);
