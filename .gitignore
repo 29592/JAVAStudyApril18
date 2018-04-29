@@ -1,6 +1,6 @@
 #연습코딩한 폴더 제외
-src/
-programmers.co.kr.learn.courses/
+/src/
+/programmers.co.kr.learn.courses/
 
 # 컴파일 결과물 제외
 *.com
