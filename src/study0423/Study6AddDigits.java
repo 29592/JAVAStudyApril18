@@ -1,0 +1,26 @@
+package study0423;
+import java.util.*;
+
+public class Study6AddDigits {
+	public static int solution(int n) {
+		int answer = 0;
+		char[] chars = ("" +n).toCharArray();
+//		System.out.println(chars);
+		for(char c:chars) {
+			answer+=(int)c-(int)'0';
+//			System.out.println(answer+"cc"+c);
+		}
+		return answer;
+	}
+
+	public Study6AddDigits() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(solution(123));
+		System.out.println("end");
+	}
+
+}
