@@ -1,4 +1,4 @@
-package study0423;
+package study0423_kuho;
 
 import java.util.ArrayList;
 
@@ -11,7 +11,7 @@ ex) -1 -2 5 -3 -2 7 8 6
 
 import java.util.Scanner;
 
-public class Stydy5nArray {
+public class Q5nArray {
 	public static ArrayList<ArrayList> sortA(int n) {
 		Scanner sc = new Scanner(System.in);
 		int arr[] = new int[n+1];

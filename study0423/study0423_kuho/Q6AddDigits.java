@@ -1,7 +1,7 @@
-package study0423;
+package study0423_kuho;
 import java.util.*;
 
-public class Study6AddDigits {
+public class Q6AddDigits {
 	public static int solution(int n) {
 		int answer = 0;
 		char[] chars = ("" +n).toCharArray();
@@ -13,7 +13,7 @@ public class Study6AddDigits {
 		return answer;
 	}
 
-	public Study6AddDigits() {
+	public Q6AddDigits() {
 		// TODO Auto-generated constructor stub
 	}
 

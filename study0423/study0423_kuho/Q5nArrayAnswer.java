@@ -1,4 +1,4 @@
-package study0423;
+package study0423_kuho;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 ex) -1 -2 5 -3 -2 7 8 6
     -> -1 -2 -3 -2 5 7 8 6*/
-public class Stydy5nArrayAnswer {
+public class Q5nArrayAnswer {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
