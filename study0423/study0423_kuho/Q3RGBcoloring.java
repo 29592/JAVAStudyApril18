@@ -6,7 +6,7 @@ package study0423_kuho;
 // * 집 i의 이웃은 집 i-1과 집 i+1이다. 처음 집과 마지막 집은 이웃이 아니다.
 //각 집을 빨강으로 칠할 때 드는 비용, 초록으로 칠할 때 드는 비용, 파랑으로 드는 비용이 주어질 때, 
 //모든 집을 칠할 때 드는 비용의 최솟값을 구하는 프로그램을 작성하시오.*/
-//import java.util.Scanner;
+import java.util.Scanner;
 //
 //public class Stydy3RGBcoloring {
 //
